@@ -1,0 +1,10 @@
+{
+    "name": "Pomidor - Chrome Extensions",
+    "description": "Chrome Extension to show Pomidor UI from connected Salesforce org.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "main.html",
+      "default_icon": "cloud32x32.png"
+    }
+  }
